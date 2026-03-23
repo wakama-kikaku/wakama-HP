@@ -54,7 +54,7 @@ a {
 }
 
 .hero {
-  min-height: 88vh;
+  min-height: 20vh;
   display: flex;
   align-items: center;
   padding: 48px 24px;
@@ -86,6 +86,10 @@ h1 {
   max-width: 700px;
   font-size: clamp(1rem, 2.2vw, 1.4rem);
   color: #333;
+}
+
+.brand-card {
+  margin-bottom: 3em;
 }
 
 .hero-links {
